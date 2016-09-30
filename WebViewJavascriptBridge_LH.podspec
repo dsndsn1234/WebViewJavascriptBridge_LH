@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WebViewJavascriptBridge_LH"
-  s.version      = "0.0.2"
+  s.version      = “0.0.4”
   s.summary      = "Copy from  WebViewJavascriptBridge,and solve some bugs."
 
   # This description is used to generate tags and improve search results.
